@@ -1,5 +1,5 @@
 Automatic segmentation and recognition of anatomical lung
-			structures from high-resolution chest CT images
+			structures from high-resolution chest X-Ray images
 
 			ASADEL TECH
 
